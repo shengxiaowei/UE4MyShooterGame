@@ -1,0 +1,8 @@
+D:\_Asxw\UE4-ShooterGame\Source\ShooterGame\ShooterGame.Build.cs
+D:\_Asxw\UE4-ShooterGame\Source\ShooterGameLoadingScreen\ShooterGameLoadingScreen.Build.cs
+D:\_Asxw\UE4-ShooterGame\Plugins\NoesisGUI\Source\Noesis\Noesis.Build.cs
+D:\_Asxw\UE4-ShooterGame\Plugins\NoesisGUI\Source\NoesisEditor\NoesisEditor.Build.cs
+D:\_Asxw\UE4-ShooterGame\Plugins\NoesisGUI\Source\NoesisRuntime\NoesisRuntime.Build.cs
+D:\_Asxw\UE4-ShooterGame\Source\ShooterGame.Target.cs
+D:\_Asxw\UE4-ShooterGame\Source\ShooterGameEditor.Target.cs
+D:\_Asxw\UE4-ShooterGame\Source\ShooterGameServer.Target.cs
